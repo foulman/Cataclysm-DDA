@@ -281,5 +281,16 @@
     "symbol": "?",
     "color": "yellow",
     "use_action": { "type": "learn_spell", "spells": [ "cats_grace", "ogres_strength", "foxs_cunning", "eagles_sight" ] }
+  },
+  {
+    "id": "druid_leafbook",
+    "type": "GENERIC",
+    "name": "The Way of The Leaf",
+    "description": "A bark covered book.",
+    "weight": 355,
+    "volume": 2,
+    "symbol": "?",
+    "color": "green",
+    "use_action": { "type": "learn_spell", "spells": [ "druid_leafcloak", "druid_barkskin" ] }
   }
 ]
